@@ -5,3 +5,4 @@
   </p>
   <br />
 <p>If you need help related to this high quality toaster then feel free to visit vegan's server<p>
+<p>I made this repo to get a badge cry about it<p>
